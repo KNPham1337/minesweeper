@@ -5,6 +5,7 @@
 #include "TextureManager.h"
 #include "Tile.h"
 using namespace std;
+// committing a comment
 
 void DrawBoard(Board& board, sf::RenderWindow& window, map<string, sf::Sprite>& sprites);
 void DrawMenu(Board& board, sf::RenderWindow& window, map<string, sf::Sprite>& sprites);
