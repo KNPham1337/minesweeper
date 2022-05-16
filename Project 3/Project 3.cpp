@@ -6,6 +6,7 @@
 #include "Tile.h"
 using namespace std;
 // committing a comment
+// test 2
 
 void DrawBoard(Board& board, sf::RenderWindow& window, map<string, sf::Sprite>& sprites);
 void DrawMenu(Board& board, sf::RenderWindow& window, map<string, sf::Sprite>& sprites);
